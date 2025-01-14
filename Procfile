@@ -1,0 +1,1 @@
+web: gunicorn rekrut_backend.wsgi
